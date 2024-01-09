@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2334d1358d2ff0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "009bb46b43bacdb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c28306429c8bbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32_Learn/9-I2c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31ce63f83e103765",
+    "type": "split",
+    "children": [
+      {
+        "id": "3514549e32b493c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81fc7581058454ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaaf80dc677f2e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2df62fd4eddd2ff7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "a28c0ff2a8227d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed9bdc02746630a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2827137f0acd3076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STM32_Learn/9-I2c.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1e0020ff8974f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STM32_Learn/9-I2c.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "960818947dc37425",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74ab8b993066f928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STM32_Learn/9-I2c.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false
+    }
+  },
+  "active": "1c28306429c8bbf7",
+  "lastOpenFiles": [
+    "STM32_Learn/11-MPU6050.md",
+    "STM32_Learn/9-I2c.md",
+    "STM32_Learn/9-I2C/发送和接收应答.png",
+    "STM32_Learn/9-I2C/发送应答.png",
+    "STM32_Learn/9-I2C/发送应答.png.crdownload",
+    "STM32_Learn/9-I2C/接收信号.png",
+    "STM32_Learn/9-I2C/接收信号.png.crdownload",
+    "STM32_Learn/9-I2C/发送信号.png",
+    "STM32_Learn/9-I2C/发送和接收信号.png",
+    "STM32_Learn/9-I2C/发送和接收信号.png.crdownload",
+    "STM32_Learn/9-I2C/起始和结束信号.png",
+    "STM32_Learn/9-I2C/I2C时序基本单元.png",
+    "STM32_Learn/9-I2C/IIC时序基本单元.png",
+    "STM32_Learn/9-I2C/IIC时序基本单元.png.crdownload",
+    "STM32_Learn/11-MPU6050/温度输出寄存器.png",
+    "STM32_Learn/11-MPU6050/温度输出寄存器.png.crdownload",
+    "STM32_Learn/11-MPU6050/陀螺仪输出寄存器.png",
+    "STM32_Learn/11-MPU6050/陀螺仪输出寄存器.png.crdownload",
+    "STM32_Learn/11-MPU6050/加速度输出寄存器.png.crdownload",
+    "STM32_Learn/11-MPU6050/配置寄存器每位说明.png.crdownload",
+    "STM32_Learn/11-MPU6050/配置寄存器.png.crdownload",
+    "STM32_Learn/11-MPU6050/陀螺仪采样率分频寄存器.png.crdownload",
+    "STM32_Learn/10-OLED屏幕.md",
+    "STM32_Learn/3-GPIO.md",
+    "QT_Learn/1-qt基础入门.md",
+    "STM32_Learn/6-串口.md",
+    "STM32_Learn/10-OLED屏幕模块.md",
+    "STM32_Learn/10-OLED.md",
+    "STM32_Learn/8-ADC.md",
+    "STM32_Learn/7-IIC.md",
+    "STM32_Learn/5-DMA.md",
+    "STM32_Learn/4-新建工程.md",
+    "STM32_Learn/2-STM32固件库与CMSIS标准介绍.md",
+    "Cartographer_learn/cartographer原理.md",
+    "Cartographer_learn/cartographer.md",
+    "未命名.canvas"
+  ]
+}
